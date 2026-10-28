@@ -14,7 +14,7 @@ A Power BI dashboard designed to consolidate Excel-based readiness data into a c
 
 *Selected information has been redacted for confidentiality.*
 
-## My Contribution
+## Dashboard Highlights
 
 - Designed the dashboard layout, visual hierarchy, and consistent color scheme.
 - Connected Excel data to Power BI to present readiness indicators, completion percentages, targets, and gaps.
@@ -43,4 +43,4 @@ A Power BI dashboard designed to consolidate Excel-based readiness data into a c
 
 ## Project Scope
 
-My role focused on dashboard development, data presentation, and custom visual elements. The displayed completion figures represent tracked project activities.
+The dashboard presents project readiness and launch activity status. Completion figures describe the tracked activities.
